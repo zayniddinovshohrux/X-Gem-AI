@@ -1,0 +1,17 @@
+{
+  "name": "X-GEM",
+  "short_name": "X-GEM",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.example.x-gem"
+    }
+  ],
+  "prefer_related_applications": false
+}
